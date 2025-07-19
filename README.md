@@ -23,19 +23,12 @@ I'm a passionate **Web Developer** who loves turning ideas into real-world web e
 
 ---
 
-## 📈 GitHub Stats
-
-![Nikhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(Add your link here)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhilesh-sarraf-5b510a2b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(Add your link here)*  
 - 🌐 [Portfolio](https://your-portfolio.com) *(Add your website link if you have one)*  
-- ✉️ Email: youremail@example.com
+- ✉️ Email: nikhileshsarrafking123@gmail.com
 
 ---
 
